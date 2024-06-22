@@ -6,7 +6,7 @@
     "email": "diegogo_go@hotmail.com",
     "phone": "+52 5535543897",
     "url": "https://www.diegogojimenez.com",
-    "summary": "+2 años de experiencia como desarrollador de software. Actualmente trabajo como ingeniero de software en Solera. Vivo en la zona metropolitana de la Ciudad de México. He trabajado en entornos como el desarrollo de software y automatización como consultor ademas de ser parte de equipos aguiles de desarrollo web full-stack con ASP .NET",
+    "summary": "Más de 2 años de experiencia como desarrollador de software. Actualmente trabajo como ingeniero de software en Solera y vivo en la zona metropolitana de la Ciudad de México. He trabajado en entornos de desarrollo de software y automatización como consultor, además de formar parte de equipos ágiles de desarrollo web full-stack con ASP.NET.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -30,74 +30,74 @@
   "work": [
     {
       "name": "Solera",
-      "position": "Software development engineer",
+      "position": "Ingeniero de Desarrollo de Software",
       "url": "",
       "startDate": "2023-04-10",
       "endDate": null,
-      "summary": "Colaboro en proyectos de desarrollo web fullstack en un equipo de desarrollo agil multicultural. Trabajo constantemente en la migración de procesos a nuevas tecnologías y el uso buenas prácticas en un buscando la mejora continua para de la entrega rápida de valor a los usuarios.",
+      "summary": "Colaboro en proyectos de desarrollo web full-stack en un equipo de desarrollo ágil multicultural. Trabajo constantemente en la migración de procesos a nuevas tecnologías y en la implementación de buenas prácticas, buscando la mejora continua para una entrega rápida de valor a los usuarios.",
       "highlights": [
-        "Started the company"
+        "Lideré la implementación de nuevas tecnologías en la empresa."
       ]
     },
     {
       "name": "ENKI",
-      "position": "Consultor Jr.",
+      "position": "Consultor",
       "startDate": "2022-05-06",
       "endDate": "2023-04-10",
-      "summary": "Colaboré en proyectos de consultoria enfocados en el desarrollo de aplicaciones y automatización de procesos usando herramientas de la suite Microsoft365 con Power Apps y Power Automate principalmente. Desarrollé varias aplicaciones para el sector energetico siendo lider de los proyectos.",
+      "summary": "Colaboré en proyectos de consultoría enfocados en el desarrollo de aplicaciones y automatización de procesos usando herramientas de la suite Microsoft 365, principalmente Power Apps y Power Automate. Desarrollé varias aplicaciones para el sector energético, siendo líder de los proyectos.",
       "highlights": [
-        "Started the company"
+        "Lideré proyectos de desarrollo de aplicaciones en el sector energético."
       ]
     }
   ],
   "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
+    "organization": "Organización",
+    "position": "Voluntario",
     "url": "https://organization.com/",
     "startDate": "2012-01-01",
     "endDate": "2013-01-01",
-    "summary": "Description…",
+    "summary": "Participé en diversas actividades de voluntariado, destacando por mi compromiso y dedicación.",
     "highlights": [
-      "Awarded 'Volunteer of the Month'"
+      "Recibí el premio 'Voluntario del Mes'."
     ]
   }],
   "education": [{
-    "institution": "Facultad de estudios superiores Acatlán",
+    "institution": "Facultad de Estudios Superiores Acatlán",
     "url": "https://mac.acatlan.unam.mx/",
-    "area": "Matemáticas aplicadas y computación",
-    "studyType": "Bachelor",
+    "area": "Matemáticas Aplicadas y Computación",
+    "studyType": "Licenciatura",
     "startDate": "2017-08-01",
     "endDate": "2022-06-01",
     "score": "8.5",
     "courses": [
-      "DB1101 - Basic SQL"
+      "DB1101 - SQL Básico"
     ]
   }],
   "awards": [{
-    "title": "Award",
+    "title": "Premio",
     "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
+    "awarder": "Empresa",
+    "summary": "Descripción del premio recibido."
   }],
   "certificates": [{
-    "name": "Certificate",
+    "name": "Certificado",
     "date": "2021-11-07",
-    "issuer": "Company",
+    "issuer": "Empresa",
     "url": "https://certificate.com"
   }],
   "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
+    "name": "Publicación",
+    "publisher": "Empresa",
     "releaseDate": "2014-10-01",
     "url": "https://publication.com",
-    "summary": "Description…"
+    "summary": "Descripción de la publicación."
   }],
   "skills": [
     {
       "name": "C#",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript"
       ]
     },
     {
@@ -109,28 +109,28 @@
     },
     {
       "name": "HTML",
-      "level": "Master",
+      "level": "Experto",
       "keywords": [
         "Desarrollo Web", "Frontend"
       ]
     },
     {
       "name": "CSS",
-      "level": "Master",
+      "level": "Experto",
       "keywords": [
         "Desarrollo Web", "Frontend", "Diseño Responsive"
       ]
     },
     {
       "name": "JavaScript",
-      "level": "Master",
+      "level": "Experto",
       "keywords": [
         "Desarrollo Web", "Frontend", "Backend", "Fullstack"
       ]
     },
     {
       "name": "Node",
-      "level": "Basico",
+      "level": "Básico",
       "keywords": [
         "Desarrollo Web", "Backend", "JavaScript", "Servidor"
       ]
@@ -165,38 +165,38 @@
     },
     {
       "name": "React",
-      "level": "Medio",
+      "level": "Intermedio",
       "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Desarrollo Web", "Frontend", "Biblioteca JavaScript", "UI"
       ]
     }
   ],
   "languages": [
     {
-      "language": "Spanish",
-      "fluency": "Native speaker"
+      "language": "Español",
+      "fluency": "Nativo"
     },
     {
-      "language": "English",
-      "fluency": "Conversational"
+      "language": "Inglés",
+      "fluency": "Conversacional"
     }
   ],
   "interests": [{
-    "name": "Wildlife",
+    "name": "Fauna Salvaje",
     "keywords": [
-      "Ferrets",
-      "Unicorns"
+      "Hurones",
+      "Unicornios"
     ]
   }],
   "references": [{
     "name": "Jane Doe",
-    "reference": "Reference…"
+    "reference": "Referencia..."
   }],
   "projects": [
     {
       "name": "mars.codes",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "Historia interactiva con retos de programación para viajar a Marte.",
       "highlights": [
         "Elige tu propia aventura",
         "En desarrollo"
