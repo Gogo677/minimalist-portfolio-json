@@ -1,66 +1,50 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
-    "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "name": "Diego Jiménez González",
+    "label": ".NET Developer",
+    "image": "/me.jpg",
+    "email": "diegogo_go@hotmail.com",
+    "phone": "+52 5535543897",
+    "url": "https://www.diegogojimenez.com",
+    "summary": "+2 años de experiencia como desarrollador de software. Actualmente trabajo como ingeniero de software en Solera. Vivo en la zona metropolitana de la Ciudad de México. He trabajado en entornos como el desarrollo de software y automatización como consultor ademas de ser parte de equipos aguiles de desarrollo web full-stack con ASP .NET",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "España"
+      "postalCode": "",
+      "city": "Naucalpan de Juárez",
+      "countryCode": "MX",
+      "region": "México"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "gogo677",
+        "url": "https://www.linkedin.com/in/gogo677"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "gogo677",
+        "url": "https://github.com/gogo677"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "Solera",
+      "position": "Software development engineer",
+      "url": "",
+      "startDate": "2023-04-10",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "summary": "Colaboro en proyectos de desarrollo web fullstack en un equipo de desarrollo agil multicultural. Trabajo constantemente en la migración de procesos a nuevas tecnologías y el uso buenas prácticas en un buscando la mejora continua para de la entrega rápida de valor a los usuarios.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "name": "ENKI",
+      "position": "Consultor Jr.",
+      "startDate": "2022-05-06",
+      "endDate": "2023-04-10",
+      "summary": "Colaboré en proyectos de consultoria enfocados en el desarrollo de aplicaciones y automatización de procesos usando herramientas de la suite Microsoft365 con Power Apps y Power Automate principalmente. Desarrollé varias aplicaciones para el sector energetico siendo lider de los proyectos.",
       "highlights": [
         "Started the company"
       ]
@@ -78,13 +62,13 @@
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
+    "institution": "Facultad de estudios superiores Acatlán",
+    "url": "https://mac.acatlan.unam.mx/",
+    "area": "Matemáticas aplicadas y computación",
     "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
+    "startDate": "2017-08-01",
+    "endDate": "2022-06-01",
+    "score": "8.5",
     "courses": [
       "DB1101 - Basic SQL"
     ]
@@ -110,6 +94,20 @@
   }],
   "skills": [
     {
+      "name": "C#",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": ".NET",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
       "name": "HTML",
       "level": "Master",
       "keywords": [
@@ -131,28 +129,21 @@
       ]
     },
     {
-      "name": "Tailwind",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
-      ]
-    },
-    {
       "name": "Node",
-      "level": "Avanzado",
+      "level": "Basico",
       "keywords": [
         "Desarrollo Web", "Backend", "JavaScript", "Servidor"
       ]
     },
     {
-      "name": "MySQL",
+      "name": "SQL Server",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "PostgreSQL",
       "level": "Avanzado",
       "keywords": [
         "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
@@ -173,15 +164,8 @@
       ]
     },
     {
-      "name": "Next.js",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
-      ]
-    },
-    {
       "name": "React",
-      "level": "Avanzado",
+      "level": "Medio",
       "keywords": [
         "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
       ]
@@ -194,7 +178,7 @@
     },
     {
       "language": "English",
-      "fluency": "Advanced"
+      "fluency": "Conversational"
     }
   ],
   "interests": [{
@@ -218,58 +202,6 @@
         "En desarrollo"
       ],
       "url": "https://mars.codes"
-    },
-    {
-      "name": "AdventJS",
-      "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
-      "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
-      ],
-      "url": "https://adventjs.dev"
-    },
-    {
-      "name": "Codember",
-      "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
-      "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
-      ],
-      "url": "https://codember.dev"
-    },
-    {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
-      "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
-      ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
     }
   ]
 }
